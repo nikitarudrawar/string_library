@@ -1,0 +1,117 @@
+0	nikita	6
+0	ffstrssgfcxgfsrt	16
+
+1	abc		nikita	nikita
+1	nikita	abc		abc
+1	coep	pune	pune
+
+2	abc		nikita	2	nic
+2	abc		nikita	3	nik
+2	abc		nikita	4	niki
+2	abc		nikita	5	nikit
+2	nikita	abc		2	abkita
+2	nikita	abc		3	abcita
+2	nikita	abc		4	abc
+
+3	abc		nikita	 
+3	nikita	abc		 
+3	coep	pune	 
+
+4	coep	pune	coeppune
+4	abc		%%xyz	abc%%xyz
+
+5	coep	pune	2	coeppu
+5	coep	pune	4	coeppune
+5	coep	pune	10	coeppune
+5	nikita	abc		2	nikitaab
+
+6	abc		ABC		32
+6	ABC		a		-32
+6	abcd	abcd	0
+6	nikita	nikitaa	-97
+
+7	abc		ABC		2	32
+7	abcD	abcd	3	0
+7	nikita	nikitaa	10	-97
+
+8	nikita	i		ikita
+8	nikita	z		 
+
+9	nikita	i		ita
+9	nikita	z		 
+
+10	nikita	pqrst	ta
+10	abcd	xyz		 
+10	coep	pune	ep
+10	coeppune	abc	coeppune
+
+11	nikita	abc		0
+11	nikita	niks	4
+11	coeppune	coep	5
+11	zzzzza	zvjh	5
+
+12	nikita	abc		5
+12	nikita	z		6
+12	coep	c		0
+
+13	nikita	i		ikita
+13	nikita	ik		ikita
+13	nikita	aa	 
+13	nikita	z	 
+
+14	nikita	nikita
+14	aaaaaaaaa	aaaaaaaaa
+
+16	nikita	n	 		ikita
+16	nikita	i	n		kita
+16	nikita	a	nikit	 
+16	nikita	z	nikita	 
+
+17	abc		nikita	-13
+17	nikita	abc		13
+17	abc		abc		0
+
+18	abc		ABC		0
+18	ABC		a		66
+18	abcd	abcd	0
+
+19	abc		ABC		4	0
+19	abc		ABC		3	0
+19	abc		ABC		2	0
+19	aBcD	AbCde	4	0
+19	abc		abce	4	-101
+19	abc		cba		3	-2
+
+20	nikita	i		ikita
+20	nikita	z		 
+
+21	nikita	i		ita
+21	nikita	n		nikita
+21	nikita	z		 
+
+22	ABc		ABC		2	0
+22	ABc		ABC		3	32
+22	abcD	zyx		4	-25
+
+23	nikita	t		4	 
+23	nikita	t		5	ta
+23	nikita	z		6	 
+
+24	nikita	$		4	$$$$ta
+24	nikita	a		10	aaaaaaaaaa
+
+25	abc		nikita	5	nikit
+25	abc		nikita	6	nikita
+25	abc		nikita	7	nikita
+25	nikita	coep	6	coep
+25	nikita	coep	5	coep
+25	nikita	coep	4	coepta
+25	nikita	coep	3	coeita
+
+26	coep	pune	2	puep
+26	abc		pune	4	pune
+26	abc		pune	3	pun
+26	abc		pune	2	puc
+26	nikita	abc		4	abc
+26	nikita	abc		3	abcita
+26	nikita	abc		2	abkita
